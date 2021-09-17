@@ -1,2 +1,2 @@
-# Space-Fire-Game-using-Python-with-sound-effects
-Space Fire Game using Python
+# SPACE WARS
+Basic game where you have to destroy the enemies in order to increase your score as much as possible!
